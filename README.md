@@ -1,4 +1,4 @@
-[![tazeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tazeno&theme=tokyonight)](https://github.com/tazeno/github-readme-stats)
+[![tazeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssw236&theme=tokyonight)](https://github.com/ssw236/github-readme-stats)
 
 <!--
 **tazeno/tazeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
